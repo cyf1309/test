@@ -1,0 +1,6 @@
+{
+  "name": "TIME - Poste Garniture",
+  "description": "Gestionnaire de chronos de conservation et assistant opérationnel pour poste garniture en cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
